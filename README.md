@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KiranSeetharam11
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on basic data management and data programming
+- 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me : kiranseetharam2003@gmail.com
 
 <!---
